@@ -95,7 +95,8 @@ powerbi-blinkit-dashboard/
 
 ## Dashboard
 
-Images/icons/Blinkit Dashboard.png
+![Blinkit Dashboard](Images/icons/Blinkit%20Dashboard.png)
+
 
 ---
 
