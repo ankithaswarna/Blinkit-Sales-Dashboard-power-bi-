@@ -93,7 +93,9 @@ powerbi-blinkit-dashboard/
 └── README.md
 ```
 
-## Screenshots
+## Dashboard
+
+Images/icons/Blinkit Dashboard.png
 
 ---
 
